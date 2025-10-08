@@ -1,2 +1,2 @@
 # CVE
-CVE - Common Vulnerabilities and Exposures.
+CVEs - Common Vulnerabilities and Exposures.
