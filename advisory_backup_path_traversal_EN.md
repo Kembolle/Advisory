@@ -18,7 +18,7 @@ A **Path Traversal / Arbitrary File Read** vulnerability was identified in the a
 - **Analyzed version:** `3.3.0-r16825`
 - **Component:** `admin/backup.php` (revision `$Id: backup.php 16672 2025-12-04`)
 - **Endpoint:** `admin/backup.php?action=download&file=<path>`
-- **Access vector:** authenticated administrative panel (`/admin/`)
+- **Access vector:** https://github.com/modified-shop/modified-shop
 
 **Unaffected products/versions:** not assessed. The analysis was limited to the version above.
 
