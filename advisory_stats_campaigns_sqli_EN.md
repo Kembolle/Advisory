@@ -20,7 +20,7 @@ An **authenticated SQL Injection** vulnerability was identified in the campaign 
   - `admin/stats_campaigns.php` (revision `$Id: stats_campaigns.php 14517 2022-06-11`)
   - `admin/includes/classes/campaigns.php` (revision `$Id: campaigns.php 15998 2024-07-02`)
 - **Endpoint:** `admin/stats_campaigns.php` (`GET` method)
-- **Access vector:** authenticated administrative panel (`/admin/`)
+- **Access vector:** https://github.com/modified-shop/modified-shop
 
 **Unaffected products/versions:** not assessed. The analysis was limited to the version above.
 
