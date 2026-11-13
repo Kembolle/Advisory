@@ -232,5 +232,5 @@ This advisory is for **educational and defensive** purposes. Testing was conduct
 
 ## 19. Contact
 
-- **Researcher:** Kembolle Amilkar
+- **Researcher:** Kembolle Amilkar / kembolle.com.br
 - **Via:** RedScan Academy
