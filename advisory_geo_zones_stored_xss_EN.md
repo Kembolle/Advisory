@@ -17,7 +17,7 @@ A **Stored Cross-Site Scripting (Stored XSS)** vulnerability was identified in t
 - **Product:** modified eCommerce Shopsoftware (xt-commerce / osCommerce base)
 - **Analyzed version:** `3.3.0-r16825`
 - **Component:** `admin/geo_zones.php`
-- **Access vector:** authenticated administrative panel (`/admin/`)
+- **Access vector:** https://github.com/modified-shop/modified-shop
 
 **Unaffected products/versions:** not assessed. The analysis was limited to the version above; earlier versions sharing the same output flow are likely affected as well but were not verified.
 
