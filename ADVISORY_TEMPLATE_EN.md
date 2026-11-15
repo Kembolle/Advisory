@@ -305,6 +305,6 @@ Use of the information in this document is the sole responsibility of the reader
 
 For corrections, updates or additional information:
 
-- **Email:** [EMAIL]
-- **Website:** [WEBSITE]
-- **PGP key:** [LINK OR FINGERPRINT]
+- **Email:** [contato@kembolle.com.br]
+- **Website:** [kembolle.com.br]
+
